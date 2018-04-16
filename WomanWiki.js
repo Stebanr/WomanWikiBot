@@ -21,4 +21,4 @@ client.on("message", (message) => {
     message.channel.send({embed});
   }
 });
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NDM1MTkxNDcxMjA5OTcxNzIy.DbZ3Vg.HnD7w6eu3F5VZK5rrKLwgA_FvpM);
